@@ -20,7 +20,7 @@
     {
       "icon": "dashboard",
       "tags": [],
-      "title": "TeslaMate",
+      "title": "特斯拉伴侣",
       "tooltip": "",
       "type": "link",
       "url": "[[base_url:raw]]"
@@ -31,7 +31,7 @@
       "tags": [
         "tesla"
       ],
-      "title": "Dashboards",
+      "title": "仪表盘",
       "type": "dashboards"
     }
   ],
@@ -148,7 +148,7 @@
       ],
       "timeFrom": null,
       "timeShift": null,
-      "title": "Number of drives",
+      "title": "驾驶统次数",
       "type": "stat"
     },
     {
@@ -359,7 +359,7 @@
       ],
       "timeFrom": null,
       "timeShift": null,
-      "title": "kWh used",
+      "title": "使用的kWh",
       "type": "stat"
     },
     {
@@ -485,7 +485,7 @@
       ],
       "timeFrom": null,
       "timeShift": null,
-      "title": "Median distance of a drive",
+      "title": "平均行驶距离",
       "type": "stat"
     },
     {
@@ -603,7 +603,7 @@
       ],
       "timeFrom": null,
       "timeShift": null,
-      "title": "Median distance driven per day",
+      "title": "平均每天行驶距离",
       "type": "stat"
     },
     {
@@ -696,7 +696,7 @@
       ],
       "timeFrom": null,
       "timeShift": null,
-      "title": "Median kWh used per day",
+      "title": "平均每天使用的kWh",
       "type": "stat"
     },
     {
@@ -1023,7 +1023,7 @@
       ],
       "timeFrom": null,
       "timeShift": null,
-      "title": "Top Destinations",
+      "title": "热门目的地",
       "type": "bargauge"
     }
   ],
@@ -1198,7 +1198,7 @@
     ]
   },
   "timezone": "",
-  "title": "Drive Stats",
+  "title": "驾驶统计",
   "uid": "_7WkNSyWk",
   "version": 1
 }
