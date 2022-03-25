@@ -174,7 +174,7 @@
       ],
       "timeFrom": null,
       "timeShift": null,
-      "title": "Consumption (net)",
+      "title": "消耗量 (net)",
       "type": "stat"
     },
     {
@@ -293,7 +293,7 @@
       ],
       "timeFrom": null,
       "timeShift": null,
-      "title": "Consumption (gross) ",
+      "title": "消耗量 (gross) ",
       "type": "stat"
     },
     {
@@ -412,7 +412,7 @@
       ],
       "timeFrom": null,
       "timeShift": null,
-      "title": "Logged Distance",
+      "title": "记录距离",
       "type": "stat"
     },
     {
@@ -704,7 +704,7 @@
       ],
       "timeFrom": null,
       "timeShift": null,
-      "title": "Temperature – Efficiency",
+      "title": "温度 - 效率",
       "type": "table"
     },
     {
@@ -823,7 +823,7 @@
       ],
       "timeFrom": null,
       "timeShift": null,
-      "title": "Current $preferred_range efficiency",
+      "title": "当前 $preferred_range 效率",
       "type": "stat"
     },
     {
@@ -1255,7 +1255,7 @@
     ]
   },
   "timezone": "",
-  "title": "Efficiency",
+  "title": "效率",
   "uid": "fu4SiQgWz",
   "version": 1
 }

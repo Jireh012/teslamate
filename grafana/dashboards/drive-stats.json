@@ -814,7 +814,7 @@
       ],
       "timeFrom": null,
       "timeShift": null,
-      "title": "Extrapolated monthly mileage",
+      "title": "预估月里程",
       "type": "stat"
     },
     {
@@ -932,7 +932,7 @@
       ],
       "timeFrom": null,
       "timeShift": null,
-      "title": "Extrapolated annual mileage",
+      "title": "预估年里程",
       "type": "stat"
     },
     {
