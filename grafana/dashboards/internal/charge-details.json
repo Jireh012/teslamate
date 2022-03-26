@@ -26,7 +26,7 @@
     {
       "icon": "dashboard",
       "tags": [],
-      "title": "TeslaMate",
+      "title": "特斯拉伴侣",
       "tooltip": "",
       "type": "link",
       "url": "[[base_url:raw]]"
@@ -37,7 +37,7 @@
       "tags": [
         "tesla"
       ],
-      "title": "Dashboards",
+      "title": "仪表盘",
       "type": "dashboards"
     }
   ],
@@ -142,7 +142,7 @@
       ],
       "thresholds": [],
       "timeRegions": [],
-      "title": "Charge Details",
+      "title": "收费明细",
       "tooltip": {
         "shared": true,
         "sort": 0,
@@ -297,7 +297,7 @@
       "id": 6,
       "links": [
         {
-          "title": "Set cost",
+          "title": "设定成本",
           "url": "[[base_url:raw]]/charge-cost/${charging_process_id}"
         }
       ],
@@ -695,7 +695,7 @@
     ]
   },
   "timezone": "",
-  "title": "Charge Details",
+  "title": "收费明细",
   "uid": "BHhxFeZRz",
   "version": 1,
   "weekStart": ""

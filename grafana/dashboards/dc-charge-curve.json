@@ -26,7 +26,7 @@
     {
       "icon": "dashboard",
       "tags": [],
-      "title": "TeslaMate",
+      "title": "特斯拉伴侣",
       "tooltip": "",
       "type": "link",
       "url": "[[base_url:raw]]"
@@ -37,7 +37,7 @@
       "tags": [
         "tesla"
       ],
-      "title": "Dashboards",
+      "title": "仪表盘",
       "type": "dashboards"
     }
   ],
@@ -99,7 +99,7 @@
           {
             "mapping": {
               "color": "charging_process_id",
-              "text": "Charge",
+              "text": "充电",
               "x": "SOC [%]",
               "y": "Power [kW]"
             },
@@ -166,7 +166,7 @@
           ]
         }
       ],
-      "title": "DC Charge Curve",
+      "title": "直流充电曲线",
       "type": "natel-plotly-panel",
       "version": 1
     }
@@ -258,7 +258,7 @@
     ]
   },
   "timezone": "",
-  "title": "DC Charge Curve",
+  "title": "直流充电曲线",
   "uid": "z-wX7riRz",
   "version": 1,
   "weekStart": ""

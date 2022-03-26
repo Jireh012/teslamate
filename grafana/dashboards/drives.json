@@ -27,7 +27,7 @@
     {
       "icon": "dashboard",
       "tags": [],
-      "title": "TeslaMate",
+      "title": "特斯拉伴侣",
       "tooltip": "",
       "type": "link",
       "url": "[[base_url:raw]]"
@@ -38,7 +38,7 @@
       "tags": [
         "tesla"
       ],
-      "title": "Dashboards",
+      "title": "仪表盘",
       "type": "dashboards"
     }
   ],
@@ -103,7 +103,7 @@
                 "value": [
                   {
                     "targetBlank": false,
-                    "title": "View drive details",
+                    "title": "查看驾驶详细信息",
                     "url": "d/zm7wN6Zgz?from=${__data.fields.start_date_ts.numeric}&to=${__data.fields.end_date_ts.numeric}&var-car_id=${__data.fields.car_id.numeric}&var-drive_id=${__data.fields.drive_id.numeric}"
                   }
                 ]
@@ -232,7 +232,7 @@
                 "value": [
                   {
                     "targetBlank": true,
-                    "title": "Create or edit geo-fence",
+                    "title": "创建或编辑地理围栏",
                     "url": "[[base_url:raw]]/geo-fences/${__data.fields.start_path}"
                   }
                 ]
@@ -261,7 +261,7 @@
                 "value": [
                   {
                     "targetBlank": true,
-                    "title": "Create or edit geo-fence",
+                    "title": "创建或编辑地理围栏",
                     "url": "[[base_url:raw]]/geo-fences/${__data.fields.end_path}"
                   }
                 ]
@@ -701,7 +701,7 @@
                 "id": "links",
                 "value": [
                   {
-                    "title": "In cold weather, the estimated consumption may be incorrect and is therefore sometimes hidden.",
+                    "title": "在寒冷的天气中，估计的消耗量可能不正确，因此有时会被隐藏。",
                     "url": ""
                   }
                 ]
@@ -806,7 +806,7 @@
         }
       ],
       "datasource": "TeslaMate",
-      "title": "Drive",
+      "title": "驾驶",
       "transformations": [
         {
           "id": "merge",
@@ -1007,7 +1007,7 @@
     ]
   },
   "timezone": "",
-  "title": "Drives",
+  "title": "驾驶",
   "uid": "Y8upc6ZRk",
   "version": 1,
   "weekStart": ""

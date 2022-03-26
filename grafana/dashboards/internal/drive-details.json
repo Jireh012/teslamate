@@ -28,7 +28,7 @@
     {
       "icon": "dashboard",
       "tags": [],
-      "title": "TeslaMate",
+      "title": "特斯拉伴侣",
       "tooltip": "",
       "type": "link",
       "url": "[[base_url:raw]]"
@@ -36,7 +36,7 @@
     {
       "icon": "",
       "tags": [],
-      "title": "GpxExport",
+      "title": "Gpx导出",
       "tooltip": "",
       "type": "link",
       "url": "[[base_url:raw]]/drive/$drive_id/gpx"
@@ -47,7 +47,7 @@
       "tags": [
         "tesla"
       ],
-      "title": "Dashboards",
+      "title": "仪表盘",
       "type": "dashboards"
     }
   ],
@@ -149,7 +149,7 @@
       ],
       "thresholds": [],
       "timeRegions": [],
-      "title": "Drive",
+      "title": "驾驶",
       "tooltip": {
         "shared": true,
         "sort": 0,
@@ -731,7 +731,7 @@
           ]
         }
       ],
-      "title": "Map",
+      "title": "地图",
       "type": "pr0ps-trackmap-panel"
     },
     {
@@ -817,7 +817,7 @@
       ],
       "thresholds": [],
       "timeRegions": [],
-      "title": "Elevation",
+      "title": "海拔",
       "tooltip": {
         "shared": true,
         "sort": 0,
@@ -959,7 +959,7 @@
       ],
       "thresholds": [],
       "timeRegions": [],
-      "title": "Temperatures",
+      "title": "温度 ",
       "tooltip": {
         "shared": true,
         "sort": 0,
@@ -1090,7 +1090,7 @@
           ]
         }
       ],
-      "title": "Elevation Summary",
+      "title": "海拔摘要",
       "type": "stat"
     },
     {
@@ -1379,7 +1379,7 @@
     ]
   },
   "timezone": "",
-  "title": "Drive Details",
+  "title": "驾驶详情",
   "uid": "zm7wN6Zgz",
   "version": 1,
   "weekStart": ""

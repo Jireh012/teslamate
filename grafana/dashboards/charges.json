@@ -26,7 +26,7 @@
     {
       "icon": "dashboard",
       "tags": [],
-      "title": "TeslaMate",
+      "title": "特斯拉伴侣",
       "tooltip": "",
       "type": "link",
       "url": "[[base_url:raw]]"
@@ -37,7 +37,7 @@
       "tags": [
         "tesla"
       ],
-      "title": "Dashboards",
+      "title": "仪表盘",
       "type": "dashboards"
     }
   ],
@@ -105,7 +105,7 @@
                 "value": [
                   {
                     "targetBlank": false,
-                    "title": "View charge details",
+                    "title": "查看收费详情",
                     "url": "d/BHhxFeZRz?from=${__data.fields.start_date_ts.numeric}&to=${__data.fields.end_date_ts.numeric}&var-car_id=${__data.fields.car_id.numeric}&var-charging_process_id=${__data.fields.id.numeric}"
                   }
                 ]
@@ -301,7 +301,7 @@
                 "value": [
                   {
                     "targetBlank": false,
-                    "title": "Set Cost",
+                    "title": "设置成本",
                     "url": "[[base_url:raw]]/charge-cost/${__data.fields.id.numeric}"
                   }
                 ]
@@ -388,7 +388,7 @@
                 "value": [
                   {
                     "targetBlank": true,
-                    "title": "Create or edit geo-fence",
+                    "title": "创建或编辑地理围栏",
                     "url": "[[base_url:raw]]/geo-fences/${__data.fields.path}"
                   }
                 ]
@@ -764,7 +764,7 @@
         }
       ],
       "datasource": "TeslaMate",
-      "title": "Charges",
+      "title": "收费",
       "transformations": [
         {
           "id": "merge",
@@ -864,7 +864,7 @@
           ]
         }
       ],
-      "title": "Energy added",
+      "title": "添加的能量",
       "transparent": true,
       "type": "stat"
     },
@@ -957,7 +957,7 @@
           ]
         }
       ],
-      "title": "Energy used",
+      "title": "使用的能量",
       "transparent": true,
       "type": "stat"
     },
@@ -1051,7 +1051,7 @@
           ]
         }
       ],
-      "title": "Cost",
+      "title": "成本",
       "transparent": true,
       "type": "stat"
     }
@@ -1282,7 +1282,7 @@
     ]
   },
   "timezone": "",
-  "title": "Charges",
+  "title": "收费",
   "uid": "TSmNYvRRk",
   "version": 1,
   "weekStart": ""

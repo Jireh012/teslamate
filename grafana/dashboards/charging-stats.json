@@ -27,7 +27,7 @@
     {
       "icon": "dashboard",
       "tags": [],
-      "title": "TeslaMate",
+      "title": "特斯拉伴侣",
       "tooltip": "",
       "type": "link",
       "url": "[[base_url:raw]]"
@@ -38,7 +38,7 @@
       "tags": [
         "tesla"
       ],
-      "title": "Dashboards",
+      "title": "仪表盘",
       "type": "dashboards"
     }
   ],
@@ -136,7 +136,7 @@
           ]
         }
       ],
-      "title": "Number of Charges",
+      "title": "充电次数",
       "type": "stat"
     },
     {
@@ -216,7 +216,7 @@
           ]
         }
       ],
-      "title": "Charged in total",
+      "title": "总充电",
       "type": "stat"
     },
     {
@@ -297,7 +297,7 @@
           ]
         }
       ],
-      "title": "Charging Cost at SuC",
+      "title": "充电费用 （SuC）",
       "type": "stat"
     },
     {
@@ -378,7 +378,7 @@
           ]
         }
       ],
-      "title": "Total Charging Cost",
+      "title": "总充电费用",
       "type": "stat"
     },
     {
@@ -452,7 +452,7 @@
           ]
         }
       ],
-      "title": "Cost per 100 $length_unit",
+      "title": "每100 $length_unit 费用",
       "type": "stat"
     },
     {
@@ -512,7 +512,7 @@
         }
       ],
       "timeFrom": "6M",
-      "title": "Charge Heatmap",
+      "title": "充电热力图",
       "tooltip": {
         "show": true,
         "showHistogram": false
@@ -631,7 +631,7 @@
       ],
       "timeFrom": "6M",
       "timeRegions": [],
-      "title": "Charge Delta",
+      "title": "充电增量",
       "tooltip": {
         "shared": true,
         "sort": 0,
@@ -776,7 +776,7 @@
           ]
         }
       ],
-      "title": "AC/DC – kWh",
+      "title": "交流电/直流电 – kWh",
       "type": "piechart"
     },
     {
@@ -880,7 +880,7 @@
         }
       ],
       "thresholds": "0,25,50,75",
-      "title": "Charging heat map by kWh",
+      "title": "以kWh为单位的充电热力图",
       "type": "panodata-map-panel",
       "unitPlural": "%",
       "unitSingular": "%",
@@ -1001,7 +1001,7 @@
           ]
         }
       ],
-      "title": "AC/DC – Duration",
+      "title": "交流电/直流电 – 持续时间",
       "type": "piechart"
     },
     {
@@ -1141,7 +1141,7 @@
           ]
         }
       ],
-      "title": "Charge Stats",
+      "title": "收费统计",
       "type": "table"
     },
     {
@@ -1282,7 +1282,7 @@
           ]
         }
       ],
-      "title": "Discharge Stats",
+      "title": "放电统计",
       "type": "table"
     },
     {
@@ -1389,7 +1389,7 @@
           ]
         }
       ],
-      "title": "Top Charging Stations (Charged)",
+      "title": "超级充电站（已充电）",
       "type": "table"
     },
     {
@@ -1502,7 +1502,7 @@
           ]
         }
       ],
-      "title": "Top Charging Stations (Cost)",
+      "title": "超级充电站（费用）",
       "type": "table"
     }
   ],
@@ -1618,7 +1618,7 @@
     ]
   },
   "timezone": "",
-  "title": "Charging Stats",
+  "title": "充电统计",
   "uid": "-pkIkhmRz",
   "version": 1,
   "weekStart": ""

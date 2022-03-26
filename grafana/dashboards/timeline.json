@@ -30,7 +30,7 @@
       "keepTime": false,
       "tags": [],
       "targetBlank": false,
-      "title": "TeslaMate",
+      "title": "特斯拉伴侣",
       "tooltip": "",
       "type": "link",
       "url": "[[base_url:raw]]"
@@ -44,7 +44,7 @@
         "tesla"
       ],
       "targetBlank": false,
-      "title": "Dashboards",
+      "title": "仪表盘",
       "tooltip": "",
       "type": "dashboards",
       "url": ""
