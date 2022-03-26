@@ -120,7 +120,7 @@
                 "value": [
                   {
                     "targetBlank": true,
-                    "title": "Trip",
+                    "title": "行程",
                     "url": "d/FkUpJpQZk/trip?orgId=1&from=${__data.fields.date_from}&to=${__data.fields.date_to}&var-car_id=$car_id"
                   }
                 ]
@@ -178,7 +178,7 @@
                 "value": [
                   {
                     "targetBlank": true,
-                    "title": "Charging stats",
+                    "title": "充电统计",
                     "url": "d/-pkIkhmRz/charging-stats?orgId=1&from=${__data.fields.date_from}&to=${__data.fields.date_to}&var-car_id=$car_id"
                   }
                 ]
@@ -228,7 +228,7 @@
                 "value": [
                   {
                     "targetBlank": true,
-                    "title": "Charges",
+                    "title": "充电",
                     "url": "d/TSmNYvRRk/charges?orgId=1&from=${__data.fields.date_from}&to=${__data.fields.date_to}&var-car_id=$car_id"
                   }
                 ]
@@ -246,7 +246,7 @@
                 "value": [
                   {
                     "targetBlank": true,
-                    "title": "Drives",
+                    "title": "驾驶",
                     "url": "d/Y8upc6ZRk/drives?orgId=1&from=${__data.fields.date_from}&to=${__data.fields.date_to}&var-car_id=$car_id"
                   }
                 ]
@@ -568,7 +568,7 @@
           ]
         }
       ],
-      "title": "per ${period}",
+      "title": "每 ${period}",
       "transformations": [
         {
           "id": "merge",
@@ -910,7 +910,7 @@
     ]
   },
   "timezone": "browser",
-  "title": "Statistics",
+  "title": "统计",
   "uid": "1EZnXszMk",
   "version": 1,
   "weekStart": ""

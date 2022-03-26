@@ -144,7 +144,7 @@
           "where": []
         }
       ],
-      "title": "Battery Level",
+      "title": "电池电量",
       "type": "gauge"
     },
     {
@@ -222,7 +222,7 @@
           ]
         }
       ],
-      "title": "Charging Voltage",
+      "title": "充电电压",
       "type": "gauge"
     },
     {
@@ -299,7 +299,7 @@
           ]
         }
       ],
-      "title": "Charging kW",
+      "title": "充电千瓦",
       "type": "gauge"
     },
     {
@@ -335,7 +335,7 @@
       "links": [
         {
           "targetBlank": true,
-          "title": "Drive details",
+          "title": "驾驶详情",
           "url": "/d/zm7wN6Zgz/drive-details?orgId=1"
         }
       ],
@@ -527,7 +527,7 @@
           ]
         }
       ],
-      "title": "Range",
+      "title": "续航",
       "type": "stat"
     },
     {
@@ -765,7 +765,7 @@
       "links": [
         {
           "targetBlank": true,
-          "title": "Updates",
+          "title": "更新",
           "url": "/d/IiC07mgWz/updates?orgId=1"
         }
       ],
@@ -820,7 +820,7 @@
           ]
         }
       ],
-      "title": "Firmware",
+      "title": "固件",
       "type": "stat"
     },
     {
@@ -877,7 +877,7 @@
       "links": [
         {
           "targetBlank": true,
-          "title": "Mileage",
+          "title": "里程",
           "url": "/d/NjtMTFggz/mileage?orgId=1"
         }
       ],
@@ -930,7 +930,7 @@
           ]
         }
       ],
-      "title": "Odometer",
+      "title": "里程表",
       "type": "stat"
     },
     {
@@ -966,7 +966,7 @@
       "links": [
         {
           "targetBlank": true,
-          "title": "Charging Details",
+          "title": "充电详情",
           "url": "/d/BHhxFeZRz/charge-details?orgId=1"
         }
       ],
@@ -1053,7 +1053,7 @@
       ],
       "thresholds": [],
       "timeRegions": [],
-      "title": "Charging Details",
+      "title": "充电详情",
       "tooltip": {
         "shared": true,
         "sort": 0,
@@ -1234,7 +1234,7 @@
           ]
         }
       ],
-      "title": "Outside Temp",
+      "title": "外部温度",
       "type": "gauge"
     },
     {
@@ -1311,7 +1311,7 @@
           ]
         }
       ],
-      "title": "Inside Temp",
+      "title": "内部温度",
       "type": "gauge"
     },
     {
@@ -1396,7 +1396,7 @@
       "id": 20,
       "links": [
         {
-          "title": "States",
+          "title": "状态",
           "url": "/d/xo4BNRkZz/states"
         }
       ],
@@ -1443,7 +1443,7 @@
           ]
         }
       ],
-      "title": "States",
+      "title": "状态",
       "type": "state-timeline"
     }
   ],
@@ -1606,7 +1606,7 @@
     ]
   },
   "timezone": "",
-  "title": "Overview",
+  "title": "总览",
   "uid": "kOuP_Fggz",
   "version": 1,
   "weekStart": ""

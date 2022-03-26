@@ -136,7 +136,7 @@
           ]
         }
       ],
-      "title": "Last state change",
+      "title": "上次状态变化",
       "type": "stat"
     },
     {
@@ -217,7 +217,7 @@
           ]
         }
       ],
-      "title": "Current State",
+      "title": "当前状态",
       "type": "stat"
     },
     {
@@ -310,7 +310,7 @@
           ]
         }
       ],
-      "title": "parked (%)",
+      "title": "停放 (%)",
       "type": "stat"
     },
     {
@@ -433,7 +433,7 @@
           ]
         }
       ],
-      "title": "States",
+      "title": "状态",
       "type": "state-timeline"
     }
   ],
@@ -525,7 +525,7 @@
     ]
   },
   "timezone": "",
-  "title": "States",
+  "title": "状态",
   "uid": "xo4BNRkZz",
   "version": 1,
   "weekStart": ""

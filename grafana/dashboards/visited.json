@@ -136,7 +136,7 @@
           ]
         }
       ],
-      "title": "MAP",
+      "title": "地图",
       "type": "pr0ps-trackmap-panel"
     }
   ],
@@ -229,7 +229,7 @@
   },
   "timezone": "",
   "datasource": "TeslaMate",
-  "title": "Visited",
+  "title": "已访问",
   "uid": "RG_DxSmgk",
   "version": 1,
   "weekStart": ""

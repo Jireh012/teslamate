@@ -1354,7 +1354,7 @@
                 "value": [
                   {
                     "targetBlank": true,
-                    "title": "Create or edit geo-fence",
+                    "title": "创建或编辑地理围栏",
                     "url": "[[base_url:raw]]/geo-fences/${__data.fields.start_path}"
                   }
                 ]
@@ -1380,7 +1380,7 @@
                 "value": [
                   {
                     "targetBlank": true,
-                    "title": "Create or edit geo-fence",
+                    "title": "创建或编辑地理围栏",
                     "url": "[[base_url:raw]]/geo-fences/${__data.fields.end_path}"
                   }
                 ]
@@ -1840,7 +1840,7 @@
                 "value": [
                   {
                     "targetBlank": true,
-                    "title": "Create or edit geo-fence",
+                    "title": "创建或编辑地理围栏",
                     "url": "[[base_url:raw]]/geo-fences/${__data.fields.path}"
                   }
                 ]

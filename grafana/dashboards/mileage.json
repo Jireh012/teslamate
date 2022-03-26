@@ -147,7 +147,7 @@
       "timeFrom": null,
       "timeRegions": [],
       "timeShift": null,
-      "title": "Mileage",
+      "title": "里程",
       "tooltip": {
         "shared": true,
         "sort": 0,
@@ -304,7 +304,7 @@
     ]
   },
   "timezone": "",
-  "title": "Mileage",
+  "title": "里程",
   "uid": "NjtMTFggz",
   "version": 1
 }

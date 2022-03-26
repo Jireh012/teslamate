@@ -127,7 +127,7 @@
           ]
         }
       ],
-      "title": "Updates",
+      "title": "更新",
       "type": "stat"
     },
     {
@@ -201,7 +201,7 @@
           ]
         }
       ],
-      "title": "Median time between updates",
+      "title": "更新之间的平均时间",
       "type": "stat"
     },
     {
@@ -311,7 +311,7 @@
                 "value": [
                   {
                     "targetBlank": true,
-                    "title": "${__data.fields[version]} release notes",
+                    "title": "${__data.fields[version]} 版本说明",
                     "url": "https://www.notateslaapp.com/software-updates/version/${__data.fields[version]}/release-notes"
                   }
                 ]
@@ -596,7 +596,7 @@
         }
       ],
       "datasource": "TeslaMate",
-      "title": "Updates",
+      "title": "更新",
       "type": "table"
     }
   ],
@@ -732,7 +732,7 @@
     ]
   },
   "timezone": "",
-  "title": "Updates",
+  "title": "更新",
   "uid": "IiC07mgWz",
   "version": 1,
   "weekStart": ""

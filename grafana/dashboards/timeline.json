@@ -253,7 +253,7 @@
                 "value": [
                   {
                     "targetBlank": true,
-                    "title": "Create or edit geo-fence",
+                    "title": "创建或编辑地理围栏",
                     "url": "[[base_url:raw]]/geo-fences/${__data.fields.start_path}"
                   }
                 ]
@@ -279,7 +279,7 @@
                 "value": [
                   {
                     "targetBlank": true,
-                    "title": "Create or edit geo-fence",
+                    "title": "创建或编辑地理围栏",
                     "url": "[[base_url:raw]]/geo-fences/${__data.fields.end_path}"
                   }
                 ]
@@ -493,7 +493,7 @@
                 "value": [
                   {
                     "targetBlank": true,
-                    "title": "Slot details",
+                    "title": "槽位详情",
                     "url": "${__data.fields.slotlink}"
                   }
                 ]
@@ -568,7 +568,7 @@
           ]
         }
       ],
-      "title": "Timeline",
+      "title": "时间轴",
       "transformations": [
         {
           "id": "organize",
@@ -829,7 +829,7 @@
   },
   "timepicker": {},
   "timezone": "",
-  "title": "Timeline",
+  "title": "时间轴",
   "uid": "SUBgwtigz",
   "version": 1,
   "weekStart": ""
